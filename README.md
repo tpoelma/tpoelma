@@ -1,3 +1,3 @@
 - Hi, I’m @tpoelma
-- I’m interested in cybersecurity, fintech, hardware, bios/drivers, artifical intelligence, and game dev.
-- I’m currently learning C and Python, as well as MATLAB.
+- I’m interested in defense, hardware/embedded systems, power electronics, and fintech!
+- I’m familiar with C and learning python and MATLAB currently.
